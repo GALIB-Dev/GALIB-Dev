@@ -2,12 +2,12 @@
 <h3 align="center">A random college student exploring the tech universe 🌌</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galib-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=galib-dev&label=Profile%20views&color=6c757d&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=galib-dev" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=galib-dev&theme=gruvbox" alt="Trophies" />
   </a>
 </p>
 
@@ -28,16 +28,16 @@
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://facebook.com/mohammadalgalib" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Facebook-6c757d?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/root_user__4" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-6c757d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://youtube.com/c/lastarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
+    <img src="https://img.shields.io/badge/YouTube-6c757d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:mohammadalgalib71@gmail.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Gmail-6c757d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -62,11 +62,11 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=galib-dev&show_icons=true&count_private=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galib-dev&show_icons=true&count_private=true&hide=prs&theme=gruvbox" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galib-dev&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galib-dev&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galib-dev" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galib-dev&theme=gruvbox" alt="Streak Stats" />
 </p>
