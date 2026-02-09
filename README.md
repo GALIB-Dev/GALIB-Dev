@@ -4,6 +4,8 @@
 
 ### Advanced Algorithms & High-Performance Computing Solutions
 
+> **Note**: This is a modern, feature-rich README template showcasing best practices for professional open-source projects. Some links and resources are illustrative examples.
+
 [![GitHub Stars](https://img.shields.io/github/stars/GALIB-Dev/GALIB-Dev?style=for-the-badge&logo=github&logoColor=white&color=yellow)](https://github.com/GALIB-Dev/GALIB-Dev/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/GALIB-Dev/GALIB-Dev?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/GALIB-Dev/GALIB-Dev/network/members)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
