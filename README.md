@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 GALIB-Dev
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GALIB-Dev
 
 **Advanced Algorithms & High-Performance Computing Library**
 
@@ -15,23 +15,23 @@
 
 ---
 
-## 📋 Overview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="25" height="25" /> Overview
 
 GALIB-Dev is a powerful Python library for implementing advanced algorithms and high-performance computing solutions. Perfect for optimization problems, data analysis, machine learning, and scientific computing.
 
 ---
 
-## ✨ Key Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="Sparkles" width="25" height="25" /> Key Features
 
-- 🔥 **High-Performance Computing** - Parallel processing and GPU acceleration
-- 🧠 **Advanced Algorithms** - Genetic algorithms, PSO, simulated annealing, and more
-- 📊 **Data Processing** - Efficient data structures and pipelines
-- 🎨 **Visualization Tools** - Built-in plotting and analysis
-- 🔧 **Extensible** - Plugin system for custom implementations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> **High-Performance Computing** - Parallel processing and GPU acceleration
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="Brain" width="20" height="20" /> **Advanced Algorithms** - Genetic algorithms, PSO, simulated annealing, and more
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="20" height="20" /> **Data Processing** - Efficient data structures and pipelines
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="20" height="20" /> **Visualization Tools** - Built-in plotting and analysis
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="20" height="20" /> **Extensible** - Plugin system for custom implementations
 
 ---
 
-## 📦 Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Installation
 
 ```bash
 pip install galib-dev
@@ -46,7 +46,7 @@ pip install galib-dev[all]    # All features
 
 ---
 
-## 🚀 Quick Start
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Quick Start
 
 ```python
 import galib
@@ -84,7 +84,7 @@ result = ga.optimize(
 
 ---
 
-## 🤝 Contributing
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -96,18 +96,18 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Document" width="25" height="25" /> License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GALIB-Dev&show_icons=true&theme=radical)
 
-**Made with ❤️ by the GALIB-Dev Team**
+**Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20" /> by the GALIB-Dev Team**
 
 </div>
