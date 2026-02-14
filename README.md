@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="Content/arrow-circle-up-svgrepo-com.svg" alt="Rocket" width="30" height="30" /> GALIB-Dev
+# <img src="Content/trophy-svgrepo-com.svg" alt="Trophy" width="30" height="30" /> GALIB-Dev
 
 **Advanced Algorithms & High-Performance Computing Library**
 
@@ -15,23 +15,23 @@
 
 ---
 
-## <img src="Content/document-svgrepo-com.svg" alt="Document" width="25" height="25" /> Overview
+## <img src="Content/task-svgrepo-com.svg" alt="Task" width="25" height="25" /> Overview
 
 GALIB-Dev is a powerful Python library for implementing advanced algorithms and high-performance computing solutions. Perfect for optimization problems, data analysis, machine learning, and scientific computing.
 
 ---
 
-## <img src="Content/light-bulb-svgrepo-com.svg" alt="Features" width="25" height="25" /> Key Features
+## <img src="Content/verified-badge-svgrepo-com.svg" alt="Features" width="25" height="25" /> Key Features
 
-- <img src="Content/accelerate-svgrepo-com.svg" alt="Speed" width="20" height="20" /> **High-Performance Computing** - Parallel processing and GPU acceleration
-- <img src="Content/creativity-svgrepo-com.svg" alt="Algorithm" width="20" height="20" /> **Advanced Algorithms** - Genetic algorithms, PSO, simulated annealing, and more
-- <img src="Content/business-chart-finance-svgrepo-com.svg" alt="Chart" width="20" height="20" /> **Data Processing** - Efficient data structures and pipelines
-- <img src="Content/column-chart-svgrepo-com.svg" alt="Visualization" width="20" height="20" /> **Visualization Tools** - Built-in plotting and analysis
-- <img src="Content/set-up-svgrepo-com.svg" alt="Tools" width="20" height="20" /> **Extensible** - Plugin system for custom implementations
+- <img src="Content/solar-energy-svgrepo-com.svg" alt="Energy" width="20" height="20" /> **High-Performance Computing** - Parallel processing and GPU acceleration
+- <img src="Content/network-svgrepo-com.svg" alt="Network" width="20" height="20" /> **Advanced Algorithms** - Genetic algorithms, PSO, simulated annealing, and more
+- <img src="Content/business-chart-finance-11-svgrepo-com.svg" alt="Chart" width="20" height="20" /> **Data Processing** - Efficient data structures and pipelines
+- <img src="Content/men-business-cycle-graphic-svgrepo-com.svg" alt="Analytics" width="20" height="20" /> **Visualization Tools** - Built-in plotting and analysis
+- <img src="Content/computer-svgrepo-com.svg" alt="Computer" width="20" height="20" /> **Extensible** - Plugin system for custom implementations
 
 ---
 
-## <img src="Content/upload-svgrepo-com.svg" alt="Package" width="25" height="25" /> Installation
+## <img src="Content/cart-1-svgrepo-com.svg" alt="Install" width="25" height="25" /> Installation
 
 ```bash
 pip install galib-dev
@@ -46,7 +46,7 @@ pip install galib-dev[all]    # All features
 
 ---
 
-## <img src="Content/arrow-circle-up-svgrepo-com.svg" alt="Quick Start" width="25" height="25" /> Quick Start
+## <img src="Content/check-circle-svgrepo-com.svg" alt="Start" width="25" height="25" /> Quick Start
 
 ```python
 import galib
@@ -84,7 +84,7 @@ result = ga.optimize(
 
 ---
 
-## <img src="Content/user-svgrepo-com.svg" alt="Contributing" width="25" height="25" /> Contributing
+## <img src="Content/employment-deal-svgrepo-com.svg" alt="Contributing" width="25" height="25" /> Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -96,18 +96,18 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## <img src="Content/front-page-svgrepo-com.svg" alt="License" width="25" height="25" /> License
+## <img src="Content/approval-svgrepo-com.svg" alt="License" width="25" height="25" /> License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## <img src="Content/trending-up-svgrepo-com.svg" alt="Stats" width="25" height="25" /> GitHub Stats
+## <img src="Content/business-chart-finance-12-svgrepo-com.svg" alt="Stats" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GALIB-Dev&show_icons=true&theme=radical)
 
-**Made with <img src="Content/shield-cross-svgrepo-com.svg" alt="Love" width="20" height="20" /> by the GALIB-Dev Team**
+**Made with <img src="Content/verified-check-svgrepo-com.svg" alt="Verified" width="20" height="20" /> by the GALIB-Dev Team**
 
 </div>
