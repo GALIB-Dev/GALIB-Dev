@@ -31,7 +31,7 @@ GALIB-Dev is a powerful Python library for implementing advanced algorithms and 
 
 ---
 
-## <img src="Content/cart-1-svgrepo-com.svg" alt="Install" width="25" height="25" /> Installation
+## <img src="Content/light-bulb-svgrepo-com.svg" alt="Install" width="25" height="25" /> Installation
 
 ```bash
 pip install galib-dev
@@ -84,7 +84,7 @@ result = ga.optimize(
 
 ---
 
-## <img src="Content/employment-deal-svgrepo-com.svg" alt="Contributing" width="25" height="25" /> Contributing
+## <img src="Content/iron-anchor-svgrepo-com.svg" alt="Contributing" width="25" height="25" /> Contributing
 
 Contributions are welcome! Please follow these steps:
 
