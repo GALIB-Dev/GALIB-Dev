@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="Content/task-svgrepo-com.svg" alt="Task" width="25" height="25" /> Overview
+## <img src="Content/earth-svgrepo-com.svg" alt="Overview" width="25" height="25" /> Overview
 
 GALIB-Dev is a powerful Python library for implementing advanced algorithms and high-performance computing solutions. Perfect for optimization problems, data analysis, machine learning, and scientific computing.
 
@@ -96,7 +96,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## <img src="Content/approval-svgrepo-com.svg" alt="License" width="25" height="25" /> License
+## <img src="Content/store-verified-shopping-svgrepo-com.svg" alt="License" width="25" height="25" /> License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
