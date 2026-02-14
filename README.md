@@ -19,10 +19,6 @@
 
 GALIB-Dev is a powerful Python library for implementing advanced algorithms and high-performance computing solutions. Perfect for optimization problems, data analysis, machine learning, and scientific computing.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&h=400&fit=crop" alt="Computing" width="100%">
-</div>
-
 ---
 
 ## ✨ Key Features
@@ -32,10 +28,6 @@ GALIB-Dev is a powerful Python library for implementing advanced algorithms and 
 - 📊 **Data Processing** - Efficient data structures and pipelines
 - 🎨 **Visualization Tools** - Built-in plotting and analysis
 - 🔧 **Extensible** - Plugin system for custom implementations
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=700&h=300&fit=crop" alt="Data Visualization">
-</div>
 
 ---
 
@@ -89,10 +81,6 @@ result = ga.optimize(
     bounds=[(-5, 5)] * 10
 )
 ```
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=700&h=300&fit=crop" alt="Algorithm Visualization">
-</div>
 
 ---
 
