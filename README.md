@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #00CED1 0%, #48D1CC 100%); padding: 40px; border-radius: 10px;">
 
 # <img src="Content/trophy-svgrepo-com.svg" alt="Trophy" width="30" height="30" /> GALIB-Dev
 
