@@ -13,8 +13,8 @@
 
   <!-- Badges -->
   <p align="center">
-    <a href="https://github.com/GALIB-Dev/GALIB-Dev/stargazers"><img src="https://img.shields.io/github/stars/GALIB-Dev/GALIB-Dev?style=for-the-badge&color=7928CA&logo=github&logoColor=white" alt="Stars"></a>
-    <a href="https://github.com/GALIB-Dev/GALIB-Dev/network/members"><img src="https://img.shields.io/github/forks/GALIB-Dev/GALIB-Dev?style=for-the-badge&color=0070F3&logo=github&logoColor=white" alt="Forks"></a>
+    <a href="https://github.com/GALIB-Dev"><img src="https://img.shields.io/github/stars/GALIB-Dev?style=for-the-badge&color=7928CA&logo=github&logoColor=white&label=TOTAL%20STARS" alt="Total Stars"></a>
+    <a href="https://github.com/GALIB-Dev/GALIB-Dev/stargazers"><img src="https://img.shields.io/github/stars/GALIB-Dev/GALIB-Dev?style=for-the-badge&color=0070F3&logo=github&logoColor=white&label=REPO%20STARS" alt="Repo Stars"></a>
     <a href="https://github.com/GALIB-Dev/GALIB-Dev/issues"><img src="https://img.shields.io/github/issues/GALIB-Dev/GALIB-Dev?style=for-the-badge&color=FF0080&logo=github&logoColor=white" alt="Issues"></a>
     <a href="https://pypi.org/project/galib-dev/"><img src="https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-12.0%2B-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"></a>
@@ -240,7 +240,7 @@ pareto_front.plot_pareto(title="NSGA-II Pareto Optimal Frontier")
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GALIB-Dev&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0d1117&title_color=00F0FF&icon_color=7928CA&text_color=c9d1d9" alt="GALIB-Dev GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=GALIB-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0d1117&title_color=00F0FF&icon_color=7928CA&text_color=c9d1d9" alt="GALIB-Dev GitHub Stats" width="100%"/>
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GALIB-Dev&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" width="100%"/>
