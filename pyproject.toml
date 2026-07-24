@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "galib-dev"
+version = "2.0.0"
+description = "Advanced Algorithms & High-Performance Computing Library"
+readme = "README.md"
+authors = [
+    { name = "GALIB-Dev Team" }
+]
+license = "MIT"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy>=1.20.0",
+]
+
+[project.optional-dependencies]
+gpu = ["numba>=0.56.0"]
+viz = ["matplotlib>=3.5.0", "plotly>=5.0.0"]
+all = ["galib-dev[gpu,viz]"]
+
+[project.urls]
+Homepage = "https://github.com/GALIB-Dev/GALIB-Dev"
+Repository = "https://github.com/GALIB-Dev/GALIB-Dev"
+Issues = "https://github.com/GALIB-Dev/GALIB-Dev/issues"
+
+[tool.setuptools.packages.find]
+include = ["galib*"]

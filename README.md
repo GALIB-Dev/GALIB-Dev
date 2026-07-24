@@ -144,11 +144,13 @@ graph TD
 ### <img src="Content/set-up-svgrepo-com.svg" width="22" height="22" /> Installation
 
 ```bash
-# Standard CPU installation
-pip install galib-dev
+# Install directly from GitHub repository
+pip install git+https://github.com/GALIB-Dev/GALIB-Dev.git
 
-# With GPU acceleration & 3D visualization suite
-pip install galib-dev[gpu,viz]
+# Or clone and install locally in editable mode
+git clone https://github.com/GALIB-Dev/GALIB-Dev.git
+cd GALIB-Dev
+pip install -e .
 ```
 
 <br>
