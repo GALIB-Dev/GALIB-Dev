@@ -261,6 +261,11 @@ pareto_front.plot_pareto(title="NSGA-II Pareto Optimal Frontier")
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=GALIB-Dev&theme=tokyonight&hide_border=false&border_radius=10&background=0d1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" alt="Commit Streak" width="100%"/>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GALIB-Dev&theme=tokyo-night&area=true&hide_border=false" alt="Contribution Count Chart" width="100%"/>
+      </td>
+    </tr>
   </table>
 
 </div>
