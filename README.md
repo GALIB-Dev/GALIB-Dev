@@ -26,6 +26,16 @@
   <!-- Hero Visual Banner -->
   <img src="Content/banner.svg" width="100%" alt="GALIB Hero Banner"/>
 
+  <br><br>
+
+  <!-- High-Speed Action Showcase -->
+  <div align="center">
+    <p><b><img src="Content/accelerate-svgrepo-com.svg" width="20"/> <i>Light-Speed Parallel Processing Engine in Action</i> <img src="Content/accelerate-svgrepo-com.svg" width="20"/></b></p>
+    <a href="https://github.com/GALIB-Dev/GALIB-Dev">
+      <img src="Content/luffy-vs-kizaru.gif" width="92%" style="border-radius: 12px; border: 2px solid #00F0FF;" alt="Luffy vs Kizaru Light-Speed Action Showcase"/>
+    </a>
+  </div>
+
 </div>
 
 <br>
