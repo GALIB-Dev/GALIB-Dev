@@ -24,7 +24,7 @@
   <br>
 
   <!-- Hero Visual Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=GALIB-Dev%20Engine&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Extreme%20Parallel%20Optimization%20%26%20Scientific%20Computing&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="GALIB Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7928CA&height=200&section=header&text=GALIB-Dev%20Engine&fontSize=48&fontColor=ffffff&desc=Extreme%20Parallel%20Optimization%20%26%20Scientific%20Computing&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="GALIB Hero Banner"/>
 
 </div>
 
