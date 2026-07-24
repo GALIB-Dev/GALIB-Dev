@@ -32,7 +32,7 @@
   <div align="center">
     <p><b><img src="Content/accelerate-svgrepo-com.svg" width="20"/> <i>Light-Speed Parallel Processing Engine in Action</i> <img src="Content/accelerate-svgrepo-com.svg" width="20"/></b></p>
     <a href="https://github.com/GALIB-Dev/GALIB-Dev">
-      <img src="[i.ibb.co/zWYKbDSn/Adobe-Express-Luffy-vs-kisaru-1.gif]" width="92%" style="border-radius: 12px; border: 2px solid #00F0FF;" alt="Luffy vs Kizaru Light-Speed Action Showcase"/>
+      <img src="https://i.ibb.co/TMVWYkQz/luffy.png" width="300" style="border-radius: 12px; border: 2px solid #00F0FF;" alt="Luffy Light-Speed Action Showcase"/>
     </a>
   </div>
 
